@@ -101,22 +101,6 @@ input, select{
 }
 
 
-@media(max-width: 500px){
-
-    .main{
-        width: 100%;
-    }
-
-    .heading{
-        margin-bottom: 0;
-    }
-
-    .form{
-        padding: 2rem;
-        font-size: 1.2rem;
-    }
-}
-
 
 
 
