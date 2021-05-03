@@ -102,6 +102,10 @@ input, select{
 
 @media(max-width: 500px){
 
+    body{
+        background-image:  linear-gradient(rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7) );
+    }
+
     .main{
         width: 100%;
     }
